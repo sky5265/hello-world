@@ -1,2 +1,2 @@
 # hello-world
-First repository I've ever created. Learning Github
+Hello! My name is Karthik. I like cheese.
